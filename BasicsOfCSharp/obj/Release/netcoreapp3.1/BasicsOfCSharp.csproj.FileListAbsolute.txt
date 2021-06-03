@@ -1,0 +1,16 @@
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.csprojAssemblyReference.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.exe
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.deps.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.runtimeconfig.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.runtimeconfig.dev.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\BasicsOfCSharp.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.genruntimeconfig.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\MyCodeLibrary.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\bin\Release\netcoreapp3.1\MyCodeLibrary.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\BasicsOfCSharp\obj\Release\netcoreapp3.1\BasicsOfCSharp.csproj.CopyComplete
