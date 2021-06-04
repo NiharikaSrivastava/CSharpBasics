@@ -1,0 +1,15 @@
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\bin\Release\myWPFapplication.exe.config
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\bin\Release\myWPFapplication.exe
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\bin\Release\myWPFapplication.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.csprojAssemblyReference.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\MainWindow.g.cs
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\App.g.cs
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication_MarkupCompile.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication_MarkupCompile.lref
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\MainWindow.baml
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.g.resources
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.Properties.Resources.resources
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.csproj.GenerateResource.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.exe
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\BasicsOfCSharp\myWPFapplication\obj\Release\myWPFapplication.pdb
