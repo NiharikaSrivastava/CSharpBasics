@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCSharp_RainerStropekCourse", "AsyncCSharp_RainerStropekCourse\AsyncCSharp_RainerStropekCourse.csproj", "{8707E4F9-DDAE-469E-A6E5-3B366DC2A490}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCSharp_RainerCourse", "AsyncCSharp_RainerCourse\AsyncCSharp_RainerCourse.csproj", "{50511428-6DF6-4FD0-960F-35571C6E44DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8707E4F9-DDAE-469E-A6E5-3B366DC2A490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8707E4F9-DDAE-469E-A6E5-3B366DC2A490}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8707E4F9-DDAE-469E-A6E5-3B366DC2A490}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8707E4F9-DDAE-469E-A6E5-3B366DC2A490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50511428-6DF6-4FD0-960F-35571C6E44DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50511428-6DF6-4FD0-960F-35571C6E44DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50511428-6DF6-4FD0-960F-35571C6E44DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50511428-6DF6-4FD0-960F-35571C6E44DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {372CD74A-E213-42A8-976F-642267A950C5}
+		SolutionGuid = {47B416A6-7B29-48A1-8A90-5772C0891DBF}
 	EndGlobalSection
 EndGlobal

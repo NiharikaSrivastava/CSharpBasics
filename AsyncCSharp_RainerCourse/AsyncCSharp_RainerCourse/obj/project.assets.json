@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerStropekCourse\\AsyncCSharp_RainerStropekCourse\\AsyncCSharp_RainerStropekCourse.csproj",
-      "projectName": "AsyncCSharp_RainerStropekCourse",
-      "projectPath": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerStropekCourse\\AsyncCSharp_RainerStropekCourse\\AsyncCSharp_RainerStropekCourse.csproj",
+      "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerCourse\\AsyncCSharp_RainerCourse\\AsyncCSharp_RainerCourse.csproj",
+      "projectName": "AsyncCSharp_RainerCourse",
+      "projectPath": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerCourse\\AsyncCSharp_RainerCourse\\AsyncCSharp_RainerCourse.csproj",
       "packagesPath": "C:\\Users\\zoomp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerStropekCourse\\AsyncCSharp_RainerStropekCourse\\obj\\",
+      "outputPath": "C:\\Users\\zoomp\\Desktop\\Niharika DAIICT study material\\Summer Internship\\C# Learning Youtube\\CSharpCodePractice\\AsyncCSharp_RainerCourse\\AsyncCSharp_RainerCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zoomp\\AppData\\Roaming\\NuGet\\NuGet.Config",
