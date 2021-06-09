@@ -1,0 +1,13 @@
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.csprojAssemblyReference.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.exe
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.deps.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.runtimeconfig.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.runtimeconfig.dev.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\bin\Debug\netcoreapp3.1\InSem2Practice.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\InSem2Practice\InSem2Practice\obj\Debug\netcoreapp3.1\InSem2Practice.genruntimeconfig.cache
