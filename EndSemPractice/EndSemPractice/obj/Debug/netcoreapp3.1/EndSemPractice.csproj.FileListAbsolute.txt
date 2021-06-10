@@ -1,0 +1,13 @@
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.exe
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.deps.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.runtimeconfig.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.runtimeconfig.dev.json
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\bin\Debug\netcoreapp3.1\EndSemPractice.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.csprojAssemblyReference.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.dll
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.pdb
+C:\Users\zoomp\Desktop\Niharika DAIICT study material\Summer Internship\C# Learning Youtube\CSharpCodePractice\EndSemPractice\EndSemPractice\obj\Debug\netcoreapp3.1\EndSemPractice.genruntimeconfig.cache
