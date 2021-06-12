@@ -77,6 +77,7 @@ namespace PriceComparisonConsoleApp
             List<string> allProductSKUs;
             public async Task<List<string>> SAPApi()
             {
+                System.Threading.Thread.Sleep(1010);
                 allProductSKUs = new List<string>() {"1001", "1002", "1003", "1004", "1005", //use await keyword here when data is being fetched from SAPApi
                                                      "1006", "1007", "1008", "1009", "1010",
                                                      "1011", "1012", "1013", "1014", "1015",
@@ -89,6 +90,7 @@ namespace PriceComparisonConsoleApp
             Dictionary<string, HomepageModel> amazonProductsData = new Dictionary<string, HomepageModel>();
             public async Task<Dictionary<string, HomepageModel>> GetHomePageDetailsFromAmazon(List<string> skuList) //Task<Dictionary<string,HomepageModel>> should be the return type
             {
+                System.Threading.Thread.Sleep(1010);
                 HomepageModel hm1 = new HomepageModel("10001","Air Conditioner",10,30000);
                 HomepageModel hm2 = new HomepageModel("10004", "Geyser", 6, 10000);
                 HomepageModel hm3 = new HomepageModel("10005", "Fan", 15, 5000);
@@ -107,17 +109,17 @@ namespace PriceComparisonConsoleApp
             Dictionary<string, HomepageModel> flipkartProductsData = new Dictionary<string, HomepageModel>();
             public async Task<Dictionary<string, HomepageModel>> GetHomePageDetailsFromFlipkart(List<string> skuList) 
             {
+                System.Threading.Thread.Sleep(1010);
                 HomepageModel hm1 = new HomepageModel("10001", "Air Conditioner", 10, 30000);
                 HomepageModel hm2 = new HomepageModel("10004", "Geyser", 6, 10000);
                 flipkartProductsData.Add(hm1.SkuId, hm1);
                 flipkartProductsData.Add(hm2.SkuId, hm2);
                 return flipkartProductsData;
             }
-            public void GetValidAmazonProducts() //grouping of 10 and identifying products sold on amazon out of the combined product list
+            public void GetValidFlipkartProducts() //grouping of 10 and identifying products sold on amazon out of the combined product list
             {
 
             }
         }
-
     }
 }
