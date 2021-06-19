@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayout.MainPage">
+
+    <StackLayout Margin="20,35,20,25"> <!-- (Margin->Left, Top, Right, Bottom) Orientation="Horizontal (Vertical by Default)-->
+        <!--<Label Text="The StackLayout has its Margin property set, to control the rendering position of the StackLayout." BackgroundColor="SkyBlue" />
+        <Label Text="The Padding property can be set to specify the distance between the StackLayout and its children." BackgroundColor="Aquamarine" Padding="10,30,10,20"/>
+        <Label Text="The Spacing property can be set to specify the distance between views in the StackLayout." BackgroundColor="Aqua" Margin="20,5,20,5"/>
+        -->
+        <!--A StackLayout only respects the alignment preferences on child views that are in the opposite direction to the StackLayout orientation.-->
+        <Label Text="Start" BackgroundColor="SkyBlue" HorizontalOptions="Start"/>
+        <Label Text="Center" BackgroundColor="Aquamarine" HorizontalOptions="Center"/>
+        <Label Text="End" BackgroundColor="Aqua" HorizontalOptions="End"/>
+        <Label BackgroundColor="Blue" HorizontalOptions="Fill" TextColor="AntiqueWhite" HorizontalTextAlignment="Center" FontFamily="Arial"> <!--Fill is Default Option-->
+            <Label.FormattedText>
+                <FormattedString >
+                    <Span Text="This sentence contains "/>
+                    <Span Text="words that are emphasized and " FontAttributes="Italic, Bold"/>
+                    <Span Text="words that are underlined " TextDecorations="Underline" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Label Text="StartAndExpand" BackgroundColor="SkyBlue" VerticalOptions="StartAndExpand"/>
+        <Label Text="CenterAndExpand" BackgroundColor="Aquamarine" VerticalOptions="CenterAndExpand"/>
+        <Label Text="EndAndExpand" BackgroundColor="Aqua" VerticalOptions="EndAndExpand"/>
+        <Label Text="FillAndExpand" BackgroundColor="Blue" VerticalOptions="FillAndExpand"/>
+        <Button Text="Click Me" Clicked="Button_Clicked" HeightRequest="60" WidthRequest="150" BackgroundColor="Red" BorderColor="Orange" BorderWidth="4" CornerRadius="10"/>
+        <!--Default Option-->
+
+
+    </StackLayout>
+
+</ContentPage>
