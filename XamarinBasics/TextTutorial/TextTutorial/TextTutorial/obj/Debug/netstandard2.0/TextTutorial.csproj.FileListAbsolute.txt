@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\bin\Debug\netstandard2.0\TextTutorial.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\bin\Debug\netstandard2.0\TextTutorial.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\bin\Debug\netstandard2.0\ref\TextTutorial.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\bin\Debug\netstandard2.0\TextTutorial.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\ref\TextTutorial.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\TextTutorial\TextTutorial\TextTutorial\obj\Debug\netstandard2.0\TextTutorial.pdb
