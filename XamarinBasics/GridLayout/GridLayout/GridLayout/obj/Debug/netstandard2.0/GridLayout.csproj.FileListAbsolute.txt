@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\ref\GridLayout.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\ref\GridLayout.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.pdb

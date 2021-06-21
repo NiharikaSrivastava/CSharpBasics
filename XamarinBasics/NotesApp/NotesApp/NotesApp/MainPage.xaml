@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NotesApp.MainPage">
+
+    <Grid Margin="10,10,10,10" BackgroundColor="LightGoldenrodYellow">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"  Source="notesIcon.png" BackgroundColor="Orange"/>
+        <Entry Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Placeholder="Enter Notes" VerticalTextAlignment="Start"/>
+        <Button Grid.Row="2" Grid.Column="0" Text="Save" BackgroundColor="Red"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="Cancel" BackgroundColor="LawnGreen"/>
+        <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="Your Notes!" FontSize="Large" HorizontalTextAlignment="Center" TextColor="Black" Margin="0,15,0,0"/>
+    </Grid>
+</ContentPage>

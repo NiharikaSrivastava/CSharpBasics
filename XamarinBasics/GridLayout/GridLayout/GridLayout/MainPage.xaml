@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GridLayout.MainPage">
+    <Grid Margin="20,30,20,30">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/> <!--* : Propositional Size-->
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Label Text="Row 0 Col 0" Grid.Row="0" Grid.Column="0" BackgroundColor="Coral"/>
+        <Label Text="Row 0 Col 1" Grid.Row="0" Grid.Column="1" BackgroundColor="Pink"/>
+        <Label Text="Row 0 Col 2" Grid.Row="0" Grid.Column="2" BackgroundColor="CornflowerBlue"/>
+        <Label Text="Row 1 Col 0" Grid.Row="1" Grid.Column="0" BackgroundColor="LightGreen"/>
+        <Label Text="Row 1 Col 1" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="Aquamarine"/>
+        
+    </Grid>
+</ContentPage>

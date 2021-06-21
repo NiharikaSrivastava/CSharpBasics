@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\ref\NotesApp.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\ref\NotesApp.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinBasics\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
