@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TextTutorial.MainPage">
+             x:Class="TextTutorial.MainPage"
+             BackgroundColor="White">
 
     <StackLayout Margin="20,30,20,30" Padding="0,10,0,10">
         <Entry Placeholder="Enter Text" FontSize="Large" TextChanged="Entry_TextChanged" Completed="Entry_Completed" MaxLength="10" IsPassword="True" IsSpellCheckEnabled="false" IsTextPredictionEnabled="False"/>

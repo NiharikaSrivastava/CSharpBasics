@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2K22ZtWtpLoqcdX7Vu4CmiCW1NMKBxgvuco3OJekkjKZUOO+hbHn8p8LFAs8G8rQxkZh0V3Ul6UpZii+/vO4HA==",
+  "dgSpecHash": "arTz9ft3xDSKq1GXYTtTqfiMyJoRAfSfUQgRW63DcZ+So2dAN24sPUO3yXY1iEQL+EbzSL9rqeFXtrKe0BkQrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
+  "projectFilePath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zoomp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\zoomp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMnIOSB52GwOiY1PEnooQ9YzPNzeV+akxbiWn5+1pVWM1/C4tw/x1otqQHRGQG22dKIZJOndpuVYcFedfYgsiA==",
+  "dgSpecHash": "LzW43vkFBcEkb2w7jSe/Q0rAll3JqsEbRJrElJj3A1R/z/VF/wNjN2vTabfwel4YNQM20MoHQFpJKsEJYWf89g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
+  "projectFilePath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zoomp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

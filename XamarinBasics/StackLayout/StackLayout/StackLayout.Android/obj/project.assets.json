@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
+      "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
       "projectName": "StackLayout.Android",
-      "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
+      "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout.Android\\StackLayout.Android.csproj",
       "packagesPath": "C:\\Users\\zoomp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout.Android\\obj\\",
+      "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {
-              "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj"
+            "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {
+              "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj"
             }
           }
         }

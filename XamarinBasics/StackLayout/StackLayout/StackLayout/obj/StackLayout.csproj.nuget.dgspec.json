@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {}
+    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {
+    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
+        "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
         "projectName": "StackLayout",
-        "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
+        "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\StackLayout.csproj",
         "packagesPath": "C:\\Users\\zoomp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinApps\\StackLayout\\StackLayout\\StackLayout\\obj\\",
+        "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinBasics\\StackLayout\\StackLayout\\StackLayout\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
