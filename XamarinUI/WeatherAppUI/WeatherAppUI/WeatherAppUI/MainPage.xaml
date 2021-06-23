@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherAppUI.MainPage">
+    <Grid VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions> <!--Divide whole UI into four rows -->
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image Source="skyBg" Aspect="Fill" HeightRequest="250" VerticalOptions="StartAndExpand"/>
+        <StackLayout Orientation="Horizontal" Spacing="10" Margin="5,5" VerticalOptions="Start" HorizontalOptions="Start"> <!--Header-->
+            <Image Source="menu" VerticalOptions="Center" HeightRequest="40"/>
+            <Label Text="AHMEDABAD, IN" TextColor="Maroon" FontSize="17" VerticalOptions="Center"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Margin="0,0"> <!-- About-->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Spacing="0">
+                <Image Source="night" HeightRequest="55"/>
+                <Label Text="18" FontSize="55" FontAttributes="Bold" TextColor="Purple"/>
+                <Label Text="°C" FontSize="30" VerticalOptions="Start" TextColor="Purple" Margin="0,7"/>
+            </StackLayout>
+            <Label Text="Light Intensity Drizzle Rain" FontSize="18" TextColor="Purple"/>
+            <Label Text="June 23, 08:15 AM" HorizontalOptions="Center" FontSize="15" TextColor="Purple"/>
+        </StackLayout>
+        <Frame Grid.Row="1" HeightRequest="120" Margin="20,-40,20,20" BorderColor="LightSkyBlue" HasShadow="True" CornerRadius="10"> <!-- 2nd row for information frame -->
+            <Grid HorizontalOptions="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackLayout Grid.Column="0" Orientation="Vertical">
+                    <Image Source="humidity"/>
+                    <Label Text="50%" HorizontalOptions="Center" FontSize="18" TextColor="Black"/>
+                    <Label Text="Humidity" HorizontalOptions="Center" FontSize="15"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Orientation="Vertical">
+                    <Image Source="wind"/>
+                    <Label Text="2.4 m/s" HorizontalOptions="Center" FontSize="18" TextColor="Black"/>
+                    <Label Text="Wind" HorizontalOptions="Center" FontSize="15"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Orientation="Vertical">
+                    <Image Source="pressure"/>
+                    <Label Text="50%" HorizontalOptions="Center" FontSize="18" TextColor="Black"/>
+                    <Label Text="Pressure" HorizontalOptions="Center" FontSize="15"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Orientation="Vertical">
+                    <Image Source="clouds"/>
+                    <Label Text="44%" HorizontalOptions="Center" FontSize="18" TextColor="Black"/>
+                    <Label Text="Cloudiness" HorizontalOptions="Center" FontSize="15"/>
+                </StackLayout>
+            </Grid>           
+        </Frame>
+        <StackLayout Grid.Row="2" Orientation="Horizontal" HorizontalOptions="End" Margin="0,-25,15,0"> <!-- Third Row for list-display icon selection-->
+            <Image Source="grid" WidthRequest="45"/>
+            <Image Source="list" WidthRequest="45"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\bin\Debug\netstandard2.0\WeatherAppUI.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\bin\Debug\netstandard2.0\WeatherAppUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\bin\Debug\netstandard2.0\ref\WeatherAppUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\bin\Debug\netstandard2.0\WeatherAppUI.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\ref\WeatherAppUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\WeatherAppUI\WeatherAppUI\WeatherAppUI\obj\Debug\netstandard2.0\WeatherAppUI.pdb
