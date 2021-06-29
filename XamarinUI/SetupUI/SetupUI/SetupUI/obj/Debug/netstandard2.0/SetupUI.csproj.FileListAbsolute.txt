@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\ref\SetupUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\SetupUI.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\bin\Debug\netstandard2.0\SetupUI.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\bin\Debug\netstandard2.0\SetupUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\bin\Debug\netstandard2.0\ref\SetupUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\bin\Debug\netstandard2.0\SetupUI.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\SetupUI\SetupUI\SetupUI\obj\Debug\netstandard2.0\XamlC.stamp

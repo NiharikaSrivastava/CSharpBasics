@@ -75,8 +75,8 @@
                             
                             <Label Grid.Column="0" Text="{Binding Date}" TextColor="Black" FontSize="15" VerticalOptions="Center" Margin="20,0"/>
                             <Image Grid.Column="1" Source="{Binding Icon}" WidthRequest="50" HeightRequest="50" />
-                            <StackLayout Grid.Column="2" Orientation="Horizontal">
-                                <Label Text="{Binding Temp}" TextColor="Black" FontSize="15" VerticalOptions="Center"/>
+                            <StackLayout Grid.Column="2" Orientation="Horizontal" HorizontalOptions="End" Margin="0,0,20,0">
+                                <Label Text="{Binding Temp}" TextColor="Black" FontSize="15" VerticalOptions="Center" Margin="0,0,-5,0"/>
                                 <Label Text="°C" TextColor="Black" FontSize="15" VerticalOptions="Center"/>
                             </StackLayout>
                             </Grid>

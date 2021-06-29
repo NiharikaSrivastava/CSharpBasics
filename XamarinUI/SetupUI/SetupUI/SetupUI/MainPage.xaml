@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:xct="clr-namespace:Xamarin.CommunityToolkit.UI.Views;assembly=Xamarin.CommunityToolkit"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             x:Class="SetupUI.MainPage">
+    <NavigationPage.TitleView>
+        <Label Text="Setup"/>
+    </NavigationPage.TitleView>
+    <Grid>
+        <xct:MediaElement Source="ms-appx:///blueGradientBg.mp4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" 
+                      IsLooping="True" Aspect="AspectFill" AutoPlay="True" ShowsPlaybackControls="False"/>
+        <Label Text="SETUP" HorizontalOptions="Center" Margin=" 0,60,0,0" FontSize="28" FontAttributes="Bold" TextColor="White"/>
+        <Label Text="Let's Set It Up!" HorizontalOptions="Center" Margin=" 0,105,0,0" FontSize="22" FontAttributes="Bold, Italic" TextColor="White"/>
+        <Frame BackgroundColor="White" Margin="0,90,0,30" HeightRequest="330" WidthRequest="320" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="15" HasShadow="True">
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="What will this Device be Used as?" TextColor="Black" FontSize="20"/>
+                <StackLayout Margin="40,40,40,0" Spacing="15">
+                    <Button Text="A CONTROLLER" CornerRadius="5" TextColor="White" FontSize="16" Clicked="Button_Clicked">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="1,0">
+                                <GradientStop Color="Blue" Offset="0.1"/>
+                                <GradientStop Color="DarkBlue" Offset="1.0" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Label Text="OR" VerticalOptions="Center" TextColor="DarkBlue" HorizontalOptions="Center" FontSize="18"/>
+                    <Button Text="AN AGENT" CornerRadius="5" TextColor="White" FontSize="16" android:Button.UseDefaultShadow="true">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="1,0">
+                                <GradientStop Color="blue" Offset="0.1" />
+                                <GradientStop Color="DarkBlue" Offset="1.0" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <ActivityIndicator x:Name="loading" IsRunning="true" IsVisible="False"/>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>
