@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:xct="clr-namespace:Xamarin.CommunityToolkit.UI.Views;assembly=Xamarin.CommunityToolkit"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             x:Class="LoginUI.MainPage">
+    <Grid>
+        <xct:MediaElement Source="ms-appx:///artMaking.mp4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" 
+                          IsLooping="True" Aspect="AspectFill" AutoPlay="True" ShowsPlaybackControls="False"/> <!--Video as Background, Install Xamarin Community Toolkit from Nuget Packages-->
+        <BoxView BackgroundColor="pink" Opacity="0.2"/> <!--Overlay on the Video-->
+        <Grid Margin="30">
+            <Path Fill="White" Aspect="Uniform" HorizontalOptions="Center" 
+                  Data="M30.6,172.838V696.314L348.157,426.72Z" Opacity="0.7"/> <!--Outer Filled Triangle-->
+            <Path Stroke="pink" StrokeThickness="1" Aspect="Uniform" HorizontalOptions="Center"
+                  Data="M30.6,172.838V605.512L293.073,382.682Z" /> <!--Inner Triangle Boundary-->
+            <StackLayout Margin="60,190,0,0" Spacing="16">
+                <Label Text="LOGIN" TextColor="Black" FontSize="25" FontFamily="Poppins"/> <!--Using own Custom Font-->
+                <Entry Placeholder="Username" BackgroundColor="Pink" Opacity="0.5" WidthRequest="170" HorizontalOptions="Start" FontFamily="Poppins" FontSize="20"/>
+                <Entry Placeholder="Password" IsPassword="true" IsTextPredictionEnabled="False" IsSpellCheckEnabled="False" BackgroundColor="Pink" Opacity="0.5" WidthRequest="170" HorizontalOptions="Start" FontFamily="Poppins" FontSize="20"/>
+                <Button ImageSource="arrowIconSmall.png" WidthRequest="50" HeightRequest="50" HorizontalOptions="Start" CornerRadius="50" BorderColor="Pink" BorderWidth="3" BackgroundColor="Transparent" Margin="0,20,0,0"/>
+            </StackLayout>            
+        </Grid>
+        <StackLayout Orientation="Vertical" HorizontalOptions="End" VerticalOptions="End" Margin="30" Spacing="10">
+            <Button ImageSource="googleIconSmall.png" Text="Login With Google" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="13" CornerRadius="20" BackgroundColor="Transparent"/>
+            <Button ImageSource="facebookIcon.png" Text="Login With Facebook" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="13" CornerRadius="20" BackgroundColor="Transparent" />
+        </StackLayout>
+    </Grid>
+</ContentPage>

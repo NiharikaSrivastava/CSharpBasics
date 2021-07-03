@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginUI.Android", "LoginUI\LoginUI.Android\LoginUI.Android.csproj", "{859CA48E-673A-4787-A517-19499798B272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginUI", "LoginUI\LoginUI\LoginUI.csproj", "{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859CA48E-673A-4787-A517-19499798B272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859CA48E-673A-4787-A517-19499798B272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859CA48E-673A-4787-A517-19499798B272}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{859CA48E-673A-4787-A517-19499798B272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859CA48E-673A-4787-A517-19499798B272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859CA48E-673A-4787-A517-19499798B272}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1BC72D-8C16-4D72-8522-6978C78ADB2C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27EB6F56-B743-483C-9621-DA8597E59133}
+	EndGlobalSection
+EndGlobal

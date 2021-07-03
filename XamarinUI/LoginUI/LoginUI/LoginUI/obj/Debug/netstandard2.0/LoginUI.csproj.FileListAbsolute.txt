@@ -1,0 +1,14 @@
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csproj.AssemblyReference.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfoInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfo.cs
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csproj.CoreCompileInputs.cache
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.deps.json
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.pdb
+C:\Users\zoomp\Desktop\CSharpCodePractice\XamarinUI\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\XamlC.stamp
