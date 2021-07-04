@@ -23,9 +23,9 @@
                 <Button ImageSource="arrowIconSmall.png" WidthRequest="50" HeightRequest="50" HorizontalOptions="Start" CornerRadius="50" BorderColor="Pink" BorderWidth="3" BackgroundColor="Transparent" Margin="0,20,0,0"/>
             </StackLayout>            
         </Grid>
-        <StackLayout Orientation="Vertical" HorizontalOptions="End" VerticalOptions="End" Margin="30" Spacing="10">
-            <Button ImageSource="googleIconSmall.png" Text="Login With Google" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="13" CornerRadius="20" BackgroundColor="Transparent"/>
-            <Button ImageSource="facebookIcon.png" Text="Login With Facebook" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="13" CornerRadius="20" BackgroundColor="Transparent" />
+        <StackLayout Orientation="Vertical" HorizontalOptions="End" VerticalOptions="End" Margin="10" Spacing="10">
+            <Button ImageSource="googleIconSmall.png" Text="Login With Google" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="15" CornerRadius="20" BackgroundColor="Transparent"/>
+            <Button ImageSource="facebookIcon.png" Text="Login With Facebook" BorderColor="White" BorderWidth="3" FontFamily="Poppins" FontSize="15" CornerRadius="20" BackgroundColor="Transparent" />
         </StackLayout>
     </Grid>
 </ContentPage>
