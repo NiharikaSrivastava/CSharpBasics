@@ -10,19 +10,17 @@
              x:Class="AgentController.MainPage">
 
     <NavigationPage.TitleView>
-        <Label Text="SETUP" FontSize="25" TextColor="White" FontAttributes="Bold" FontFamily="Poppins-Medium"/>
+        <Label Text="SETUP" FontSize="25" TextColor="White" FontFamily="Poppins"/>
     </NavigationPage.TitleView>
     <Grid VerticalOptions="FillAndExpand"> 
         <xct:MediaElement Source="ms-appx:///blueGradientBg.mp4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"   
                       IsLooping="True" Aspect="AspectFill" AutoPlay="True" ShowsPlaybackControls="False"/>
         <StackLayout>
+            <Lottie:AnimationView x:Name="loading" Animation="ProgressBar.json" VerticalOptions="Start" HorizontalOptions="FillAndExpand" WidthRequest="120" HeightRequest="8" RepeatMode="Infinite"/>
             <Label Text="Let's Set It Up!" HorizontalOptions="Center" Margin="0,40,0,0" FontSize="23" TextColor="White" FontAttributes="Bold" FontFamily="Poppins-Medium"/>
-        <Label Text="What will this Device be Used as?" TextColor="White" FontSize="20" FontFamily="Poppins" HorizontalTextAlignment="Center" Margin=" 0,15,0,0"/>
+            <Label Text="What will this Device be Used as?" TextColor="White" FontSize="20" FontFamily="Poppins" HorizontalTextAlignment="Center" Margin=" 0,15,0,0"/>
             <StackLayout Spacing="20" Margin="0,30,0,0" xmlns:cardview="http://schemas.android.com/apk/res-auto">
-                <card:PancakeView BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="15" HeightRequest="170" WidthRequest="370">
-                    <card:PancakeView.Shadow>
-                        <card:DropShadow Color="Yellow" Offset="10,10"/>
-                    </card:PancakeView.Shadow>
+                <card:PancakeView x:Name="controllerCard" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="15" HeightRequest="170" WidthRequest="370">
                     <card:PancakeView.Border>
                         <card:Border Thickness="10">
                             <card:Border.GradientStops>
@@ -35,7 +33,7 @@
                         </card:Border>
                     </card:PancakeView.Border>
                     <StackLayout Orientation="Horizontal">
-                            <Lottie:AnimationView Animation="ControllerAnimation.json" AutoPlay="True" WidthRequest="200" HeightRequest="200" RepeatMode="Infinite" Clicked="Button_Clicked" VerticalOptions="Center"/>
+                        <Lottie:AnimationView Clicked="Button_Clicked" Animation="ControllerAnimation.json" AutoPlay="True" WidthRequest="200" HeightRequest="200" RepeatMode="Infinite" VerticalOptions="Center"/>
                             <StackLayout VerticalOptions="Center" Margin="-20,0,0,0">
                                 <Label Text="CONTROLLER" FontSize="23" FontAttributes="Bold" FontFamily="Poppins-Medium" TextColor="Black" HorizontalTextAlignment="Center"/>
                                 <Label Text="Track Location of Agent Phones" FontSize="18" HorizontalTextAlignment="Center" TextColor="DarkBlue"/>
@@ -43,10 +41,7 @@
                         </StackLayout>
                 </card:PancakeView>
                 <Label Text="OR" VerticalOptions="Center" TextColor="White" HorizontalOptions="Center" FontSize="20" FontFamily="Poppins-Bold"/>
-                <card:PancakeView BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="15" HeightRequest="170" WidthRequest="370">
-                    <card:PancakeView.Shadow>
-                        <card:DropShadow Color="Yellow" Offset="10,10"/>
-                    </card:PancakeView.Shadow>
+                <card:PancakeView x:Name="agentCard" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="15" HeightRequest="170" WidthRequest="370">
                     <card:PancakeView.Border>
                         <card:Border Thickness="10">
                             <card:Border.GradientStops>
@@ -66,8 +61,7 @@
                         </StackLayout>
                     </StackLayout>
                 </card:PancakeView>
-                <ActivityIndicator x:Name="loading" IsRunning="true" IsVisible="False"/>
-        </StackLayout>
+            </StackLayout>
         </StackLayout>
     </Grid>
 </ContentPage>

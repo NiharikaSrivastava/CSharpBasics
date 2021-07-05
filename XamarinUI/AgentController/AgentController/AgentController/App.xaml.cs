@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 [assembly: ExportFont("Poppins-Light.ttf", Alias = "Poppins")]
 [assembly: ExportFont("Poppins-Medium.ttf", Alias = "Poppins-Medium")]
+[assembly: ExportFont("Oswald.ttf", Alias = "Oswald")]
 
 namespace AgentController
 {

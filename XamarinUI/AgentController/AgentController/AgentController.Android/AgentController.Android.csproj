@@ -77,6 +77,7 @@
   <ItemGroup>
     <AndroidAsset Include="Assets\ControllerAnimation.json" />
     <AndroidAsset Include="Assets\AgentAnimation.json" />
+    <AndroidAsset Include="Assets\ProgressBar.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
@@ -98,7 +99,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
+    <AndroidResource Include="Resources\drawable\setup.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AgentController\AgentController.csproj">
@@ -108,6 +109,21 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\raw\blueGradientBg.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\button.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
