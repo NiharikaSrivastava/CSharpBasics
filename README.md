@@ -39,6 +39,9 @@ This folder contains multiple android based mobile application projects covering
 - Screenshots_ScreenRecordings
 - UIDesignWorkshop(Figma)
 
+# Timeline of Summer Intership and Daily Report
+https://docs.google.com/spreadsheets/d/1rQ0o6ydzEe6YJyJdLiy9W60FnHtN0qC3jaKoTGsRZ04/edit?usp=sharing
+
 # Note
 I have commented the code in each source code file such that multiple files could be created inside a single VS Code Project which organizes similar concepts in one project, 
 instead of creating separate heavy projects for each hands on. Kindly remove the /* in the first line and the */ in the last line of any file to run it and see the desired output.
