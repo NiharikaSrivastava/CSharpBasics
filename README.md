@@ -39,7 +39,7 @@ This folder contains multiple android based mobile application projects covering
 - Screenshots_ScreenRecordings
 - UIDesignWorkshop(Figma)
 
-# Timeline of Summer Intership and Daily Report
+# Timeline of Summer Intership and Daily Progress of Tasks
 https://docs.google.com/spreadsheets/d/1rQ0o6ydzEe6YJyJdLiy9W60FnHtN0qC3jaKoTGsRZ04/edit?usp=sharing
 
 # Note
