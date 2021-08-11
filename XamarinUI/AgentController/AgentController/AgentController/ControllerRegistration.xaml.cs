@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using Xamarin.Forms;
+using Xamarin.Forms.PlatformConfiguration;
+using Xamarin.Forms.PlatformConfiguration.AndroidSpecific;
 using Xamarin.Forms.Xaml;
 
 namespace AgentController
@@ -15,8 +16,13 @@ namespace AgentController
         public ControllerRegistration()
         {
             InitializeComponent();
+           /* Xamarin.Forms.ImageButton button = ImgButton;
+            button.On<Android>()
+                       .SetIsShadowEnabled(true)
+                       .SetShadowColor(Color.Gray)
+                       .SetShadowOffset(new Size(10, 10))
+                       .SetShadowRadius(12);*/
         }
-
         private void Entry_Focused_1(object sender, FocusEventArgs e)
         {
             nameCard.Opacity = 1;
@@ -55,6 +61,11 @@ namespace AgentController
         private void Entry_Unfocused_3(object sender, FocusEventArgs e)
         {
             confirmPassCard.Opacity = 0.5;
+        }
+
+        private async void ImgButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AgentInfo());
         }
     }
 }

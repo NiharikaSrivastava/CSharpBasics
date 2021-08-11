@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj": {}
+    "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj": {
+    "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj",
         "projectName": "AgentController.Android",
-        "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj",
-        "packagesPath": "C:\\Users\\zoomp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController.Android\\obj\\",
+        "projectPath": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController.Android\\AgentController.Android.csproj",
+        "packagesPath": "C:\\Users\\Niharika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\zoomp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Niharika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\AgentController.csproj": {
-                "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\AgentController.csproj"
+              "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\AgentController.csproj": {
+                "projectPath": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\AgentController.csproj"
               }
             }
           }
@@ -70,20 +72,22 @@
         }
       }
     },
-    "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\AgentController.csproj": {
+    "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\AgentController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\AgentController.csproj",
+        "projectUniqueName": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\AgentController.csproj",
         "projectName": "AgentController",
-        "projectPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\AgentController.csproj",
-        "packagesPath": "C:\\Users\\zoomp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoomp\\Desktop\\CSharpCodePractice\\XamarinUI\\AgentController\\AgentController\\AgentController\\obj\\",
+        "projectPath": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\AgentController.csproj",
+        "packagesPath": "C:\\Users\\Niharika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niharika\\Desktop\\AgentController\\AgentController\\AgentController\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\zoomp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Niharika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -147,7 +151,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

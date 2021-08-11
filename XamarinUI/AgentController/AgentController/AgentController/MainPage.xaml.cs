@@ -14,14 +14,24 @@ namespace AgentController
         public MainPage()
         {
             InitializeComponent();
-            Thread.Sleep(10000);
+            Thread.Sleep(20000);
             loading.PlayAnimation();
         }
         private async void Button_Clicked(object sender, EventArgs e)
         {
+            loading.IsVisible = true;
             controllerCard.BackgroundColor = Color.LightCyan;
             await Navigation.PushAsync(new ControllerRegistration());
             controllerCard.BackgroundColor = Color.White;
+            loading.IsVisible = false;
+        }
+
+        private async void Button_Clicked2(object sender, EventArgs e)
+        {
+            loading.IsVisible = true;
+            agentCard.BackgroundColor = Color.LightCyan;
+            await Navigation.PushAsync(new AgentSetup());
+            agentCard.BackgroundColor = Color.White;
             loading.IsVisible = false;
         }
     }

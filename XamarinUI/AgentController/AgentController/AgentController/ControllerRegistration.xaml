@@ -3,13 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AgentController.ControllerRegistration"
              xmlns:card="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              BackgroundImageSource="Bg.jpg">
     <NavigationPage.TitleView>
-        <Label Text="CONTROLLER SETUP" FontSize="25" TextColor="White" FontFamily="Poppins"/>
+        <Label Text="CONTROLLER SETUP" FontSize="18" TextColor="White" FontFamily="OpenSans-SemiBold"/>
     </NavigationPage.TitleView>
     <ContentPage.Content>
-        <StackLayout Margin="10,10,10,10">
-            <card:PancakeView x:Name="infoCard" CornerRadius="25,25,5,5" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="100" WidthRequest="400">
+        <StackLayout Margin="25,75,25,65">
+            <card:PancakeView x:Name="infoCard" CornerRadius="25,25,5,5" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="90" WidthRequest="400">
                 <card:PancakeView.Border>
                     <card:Border Thickness="10">
                         <card:Border.GradientStops>
@@ -22,39 +23,39 @@
                     </card:Border>
                 </card:PancakeView.Border>
                 <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
-                    <Image Source="setup.png" HeightRequest="60" WidthRequest="70"/>
-                    <Label Text="Fill up the following details to Create A New Controller!" FontFamily="Oswald" TextColor="DarkBlue" FontSize="25" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                    <Image Source="setup.png" HeightRequest="50" WidthRequest="60" Margin="10,0,0,0"/>
+                    <Label Text="Fill up the following details to Create A New Controller!" Margin="-3,0,5,0" FontFamily="PlayfairDisplay-ExtraBold" TextColor="DarkBlue" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                 </StackLayout>            
             </card:PancakeView>
-            <StackLayout Margin="0,40,0,0" Spacing="10">
-                <card:PancakeView x:Name="nameCard" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="65" WidthRequest="400">
+            <StackLayout Margin="0,5,0,0" Spacing="10">
+                <card:PancakeView x:Name="nameCard" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="55" WidthRequest="400">
                     <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
                         <Image Source="name.png" HeightRequest="50" WidthRequest="50"/>
-                        <Entry Placeholder="Name of Device" FontFamily="Poppins" HorizontalOptions="FillAndExpand" Focused="Entry_Focused" Unfocused="Entry_Unfocused"/>
+                        <Entry Placeholder="Name of Device" FontFamily="OpenSans-Regular" FontSize="18" HorizontalOptions="FillAndExpand" Focused="Entry_Focused" Unfocused="Entry_Unfocused" Margin="0,-12,5,-6" VerticalOptions="Center"/>
                     </StackLayout>
                 </card:PancakeView>
-                <card:PancakeView x:Name="emailCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="65" WidthRequest="400">
+                <card:PancakeView x:Name="emailCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="55" WidthRequest="400">
                     <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
                         <Image Source="email.png" HeightRequest="50" WidthRequest="50"/>
-                        <Entry Placeholder="Email" FontFamily="Poppins" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_1" Unfocused="Entry_Unfocused_1"/>
+                        <Entry Placeholder="Email" FontFamily="OpenSans-Regular" FontSize="18" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_1" Unfocused="Entry_Unfocused_1" Margin="0,-12,5,-6" VerticalOptions="Center"/>
                     </StackLayout>
                 </card:PancakeView>
-                <card:PancakeView x:Name="passCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="65" WidthRequest="400">
+                <card:PancakeView x:Name="passCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="55" WidthRequest="400">
                     <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
                         <Image Source="pass.png" HeightRequest="50" WidthRequest="50"/>
-                        <Entry Placeholder="Password" FontFamily="Poppins" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_2" Unfocused="Entry_Unfocused_2" IsPassword="True" IsSpellCheckEnabled="False" IsTextPredictionEnabled="False"/>
+                        <Entry Placeholder="Password" FontFamily="OpenSans-Regular" FontSize="18" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_2" Unfocused="Entry_Unfocused_2" IsPassword="True" IsSpellCheckEnabled="False" IsTextPredictionEnabled="False"  Margin="0,-12,5,-6" VerticalOptions="Center"/>
                     </StackLayout>
                 </card:PancakeView>
-                <card:PancakeView x:Name="confirmPassCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="65" WidthRequest="400">
+                <card:PancakeView x:Name="confirmPassCard" BackgroundColor="White" Opacity="0.5" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="55" WidthRequest="400">
                     <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
                         <Image Source="pass.png" HeightRequest="50" WidthRequest="50"/>
-                        <Entry Placeholder="Confirm Password" FontFamily="Poppins" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_3" Unfocused="Entry_Unfocused_3" IsPassword="True" IsSpellCheckEnabled="False" IsTextPredictionEnabled="False"/>
+                        <Entry Placeholder="Confirm Password" FontFamily="OpenSans-Regular" FontSize="18" HorizontalOptions="FillAndExpand" Focused="Entry_Focused_3" Unfocused="Entry_Unfocused_3" IsPassword="True" IsSpellCheckEnabled="False" IsTextPredictionEnabled="False"  Margin="0,-12,5,-6" VerticalOptions="Center"/>
                     </StackLayout>
                 </card:PancakeView>
             </StackLayout>
-            <Grid Margin="0,45,0,0" HorizontalOptions="Center" HeightRequest="65">
-                <ImageButton Source="button.jpg" CornerRadius="20"/>
-                <Label Text="SUBMIT" HorizontalOptions="Center" VerticalOptions="Center" FontFamily="Oswald" TextColor="Black" FontAttributes="Bold" FontSize="23"/>
+            <Grid Margin="0,40,0,0" HorizontalOptions="Center" HeightRequest="60" WidthRequest="110">
+                <ImageButton x:Name="ImgButton" Source="button2.jpg" CornerRadius="25" BorderWidth="3" BorderColor="White" Clicked="ImgButton_Clicked"/>
+                <Label Text="SUBMIT" HorizontalOptions="Center" VerticalOptions="Center" FontFamily="OpenSans-Bold" FontSize="20" TextColor="White"/>
             </Grid>
         </StackLayout>
     </ContentPage.Content>

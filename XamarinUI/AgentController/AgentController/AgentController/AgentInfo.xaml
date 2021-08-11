@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgentController.AgentInfo"
+             xmlns:card="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             BackgroundImageSource="Bg.jpg">
+    <NavigationPage.TitleView>
+        <Label Text="AGENTS INFORMATION" FontSize="18" TextColor="White" FontFamily="OpenSans-SemiBold"/>
+    </NavigationPage.TitleView>
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="mapBg.png" VerticalOptions="Start" HorizontalOptions="CenterAndExpand" Margin="-10,-5,-10,10"/>
+            <Label Text="NIHARIKA'S AGENTS" FontFamily="OpenSans-Bold" HorizontalOptions="Center" Margin="100,-125,0,70" FontSize="19" TextColor="Black"/>
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout Margin="15,20,10,10" Orientation="Horizontal">
+                        <Image Source="add2.png" HeightRequest="40" HorizontalOptions="Start" Margin="0,0,160,0"/>
+                        <card:PancakeView x:Name="controllerCard" BackgroundColor="White" HorizontalOptions="End" CornerRadius="15" HeightRequest="40" WidthRequest="185">
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="search.png" Margin="10,7,0,1"/>
+                                <Entry Placeholder="Search Agent" FontSize="15" WidthRequest="130" HeightRequest="100"/>
+                            </StackLayout>
+                        </card:PancakeView>
+                    </StackLayout>
+                    <StackLayout>
+                        <StackLayout Margin="8,-5,10,0">
+                            <ListView ItemsSource="{Binding AssignedAgents}" SeparatorVisibility="None" HeightRequest="280" HasUnevenRows="True">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <Frame BackgroundColor="White" HeightRequest="90" WidthRequest="50" CornerRadius="10" Padding="0" Margin="0,5">
+                                                <Grid>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                        <RowDefinition Height="25"/>
+                                                    </Grid.RowDefinitions>
+                                                    <StackLayout Grid.Row="0" Orientation="Horizontal" HorizontalOptions="Center">
+                                                        <Label Text="{Binding AgentName}" TextColor="Black" HorizontalTextAlignment="Center" FontSize="18" FontFamily="OpenSans-Bold" VerticalOptions="Center" Margin="0,10,0,0"/>
+                                                        <Image Source="GreenIcon.png" HeightRequest="25" Margin="0,10,0,0"/>
+                                                        <StackLayout Orientation="Horizontal" HorizontalOptions="End" Margin="40,10,-110,0">
+                                                            <Image Source="edit.png" HorizontalOptions="End" HeightRequest="28"/>
+                                                            <Image Source="delete.png" HorizontalOptions="End" HeightRequest="28"/>
+                                                        </StackLayout>
+                                                    </StackLayout>
+                                                    <StackLayout Grid.Row="1" Orientation="Horizontal" HorizontalOptions="Center">
+                                                        <Image Source="YellowIcon.png"/>
+                                                        <Label Text="{Binding AgentLastLocation}" TextColor="Gray" HorizontalTextAlignment="Center" FontSize="17" FontFamily="OpenSans-Italic" VerticalOptions="Center"/>
+                                                    </StackLayout>
+                                                </Grid>
+                                            </Frame>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                        <StackLayout Margin="10,0,10,10">
+                            <ListView ItemsSource="{Binding UnassignedAgents}" SeparatorVisibility="None" HeightRequest="210" HasUnevenRows="True">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <Frame BackgroundColor="LightGray" HeightRequest="40" WidthRequest="50" CornerRadius="10" Padding="0" Margin="0,5">
+                                                <StackLayout HeightRequest="40" Orientation="Horizontal" HorizontalOptions="Center">
+                                                    <Label Text="{Binding AgentName}" TextColor="Black" HorizontalTextAlignment="Center" FontSize="18" FontFamily="OpenSans-Bold" VerticalOptions="Center" Margin="0,10,0,0"/>
+                                                    <Image Source="GreyIcon.png" HeightRequest="25" Margin="0,10,0,0"/>
+                                                </StackLayout>
+                                            </Frame>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -11,12 +11,56 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Fonts\OpenSans-Bold.ttf" />
+    <None Remove="Fonts\OpenSans-BoldItalic.ttf" />
+    <None Remove="Fonts\OpenSans-ExtraBold.ttf" />
+    <None Remove="Fonts\OpenSans-ExtraBoldItalic.ttf" />
+    <None Remove="Fonts\OpenSans-Italic.ttf" />
+    <None Remove="Fonts\OpenSans-Light.ttf" />
+    <None Remove="Fonts\OpenSans-LightItalic.ttf" />
+    <None Remove="Fonts\OpenSans-Regular.ttf" />
+    <None Remove="Fonts\OpenSans-SemiBold.ttf" />
+    <None Remove="Fonts\OpenSans-SemiBoldItalic.ttf" />
     <None Remove="Fonts\Oswald.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-Black.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-BlackItalic.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-Bold.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-BoldItalic.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-ExtraBold.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-ExtraBoldItalic.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-Italic.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-Medium.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-MediumItalic.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-Regular.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-SemiBold.ttf" />
+    <None Remove="Fonts\PlayfairDisplay-SemiBoldItalic.ttf" />
     <None Remove="Fonts\Poppins-Light.ttf" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Fonts\OpenSans-Bold.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-BoldItalic.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-ExtraBold.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-ExtraBoldItalic.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-Italic.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-Light.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-LightItalic.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-Regular.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-SemiBold.ttf" />
+    <EmbeddedResource Include="Fonts\OpenSans-SemiBoldItalic.ttf" />
     <EmbeddedResource Include="Fonts\Oswald.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-Black.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-BlackItalic.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-Bold.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-BoldItalic.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-ExtraBold.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-ExtraBoldItalic.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-Italic.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-Medium.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-MediumItalic.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-Regular.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-SemiBold.ttf" />
+    <EmbeddedResource Include="Fonts\PlayfairDisplay-SemiBoldItalic.ttf" />
     <EmbeddedResource Include="Fonts\Poppins-Light.ttf" />
   </ItemGroup>
 
@@ -29,6 +73,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="AgentInfo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="AgentSetup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="ControllerRegistration.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
