@@ -4,6 +4,7 @@
 - University: Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)
 - Guide: Prof. Lavneet Singh
 - This repository contains hands on code practice of the concepts of C Sharp Language and UI specific mobile application development in Xamarin learnt during the Summer Internship.
+- Tracks: C# and Xamarin
 
 # Project 1 - CSharpPractice_BobTaborCourse
 The content covered in this project is based on the YouTube Course titled 'C# Complete Tutorial From Beginner To Advance - By Bob Tabor - FL Developers'. 
